@@ -1,3 +1,17 @@
-.setup {
-  display: none;
+body {
+  font-family: 'Open Sans', sans-serif;
+  -webkit-font-smoothing: antialiased;
+}
+
+.main-container {
+  padding-top: 15px;
+
+  div {
+    margin: 0 auto 30px;
+  }
+}
+
+.circle-progress {
+  width: 148px;
+  height: 148px;
 }

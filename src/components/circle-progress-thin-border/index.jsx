@@ -3,7 +3,7 @@ import PropTypes from 'prop-types'
 
 import CircleProgress from '../circle-progress'
 
-export function CircleProgressThinBorder(props) {
+export default function CircleProgressThinBorder(props) {
   const {
     percentageToFill,
     text,
